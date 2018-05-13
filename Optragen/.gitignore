@@ -1,0 +1,5 @@
+examples/vanderpol/vanSim*.m
+examples/pathPlanning/obstacle_avoidance*.m
+
+*.sw?
+*.asv
