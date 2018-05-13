@@ -1,0 +1,22 @@
+==============================================
+    Dynamixel SDK for Win64 v1.02
+==============================================
+
+- Fixed bug when select port number over 10, can not be initialized.
+- Fixed bug that status packet included error flag is treated "RX_TIMEOUT".
+
+
+
+==============================================
+    Dynamixel SDK for Win64 v1.01
+==============================================
+
+- Solved problem that can not run example on some system.
+
+
+
+==============================================
+    Dynamixel SDK for Win64 v1.00
+==============================================
+
+- First released
